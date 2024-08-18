@@ -1,6 +1,7 @@
 João Teixeira
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=joaoteixeira9&show_icons=true&theme=radical"></a>
+<a href="https://github-readme-stats.vercel.app/api?username=joaoteixeira9&show_icons=true&theme=transparent"></a>
 </div>
   
   ##
