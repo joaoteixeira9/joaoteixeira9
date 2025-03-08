@@ -10,12 +10,12 @@
   <p align="left">
     <a href="#" title="PHP">
     <img src="https://img.shields.io/badge/PHP-5C2D91?style=flat-square&logo=php&logoColor=white" alt="PHP"/></a>
-    <a href="#" title=".Net">
-    <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white" alt=".NET"/></a>
     <a href="#" title="C#">
     <img src="https://img.shields.io/badge/C%23-5C2D91?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/></a>
     <a href="#" title="Js">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" alt="Js"/></a>
+    <a href="#" title="MySQL">
+    <img src="https://img.shields.io/badge/MySQL-01529E?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/></a>
     <a href="#" title="HTML">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/></a>
     <a href="#" title="CSS">
@@ -29,29 +29,19 @@
     <a href="#" title=".Net">
     <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white" alt=".NET"/></a>
     <a href="#" title="Node">
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/></a>
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/></a>
     <a href="#" title="Bootstrap">
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/></a>
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/></a>
   </p>
 </p>
 
 <p align="left">
-  Ferramentas: **Coloque as suas ferramentas de trabalho.**
+ Entre em contato para mais informações.
 </p>
 
 <p align="left">
-  Aqui vai uma mensagem para entrar em contato com você: ⤵️
-</p>
-
-<p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="mailto:mentexdev@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-  <a href="#" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
-  <a href="#" title="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK" alt="Facebook"/></a>
-  <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-pedro-teixeira-d-836b73300/" alt="LinkedIn"/></a>
 </p>
