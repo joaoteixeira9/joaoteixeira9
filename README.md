@@ -13,7 +13,7 @@
     <a href="#" title="C#">
     <img src="https://img.shields.io/badge/C%23-5C2D91?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/></a>
     <a href="#" title="Js">
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=white" alt="Js"/></a>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" alt="Js"/></a>
     <a href="#" title="MySQL">
     <img src="https://img.shields.io/badge/MySQL-01529E?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/></a>
     <a href="#" title="HTML">
