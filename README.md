@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  Linguagens: 
+  Linguagens e habilidades: 
   <p align="left">
     <a href="#" title="PHP">
     <img src="https://img.shields.io/badge/PHP-5C2D91?style=flat-square&logo=php&logoColor=white" alt="PHP"/></a>
