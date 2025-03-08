@@ -1,8 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+ Olá, me chamo João Teixeira, tenho 18 anos e sou desenvolvedor <strong>Backend</strong>. Estou atualmente estudando programação e buscando sempre aprimorar minhas habilidades para construir soluções eficientes e escaláveis.
 </p>
 
 <p align="left">
@@ -13,7 +12,7 @@
     <a href="#" title="C#">
     <img src="https://img.shields.io/badge/C%23-5C2D91?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/></a>
     <a href="#" title="Js">
-    <img src="https://img.shields.io/badge/JavaScript-F29D0C?style=flat-square&logo=javascript&logoColor=white" alt="Js"/></a>
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Js"/></a>
     <a href="#" title="MySQL">
     <img src="https://img.shields.io/badge/MySQL-01529E?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/></a>
     <a href="#" title="HTML">
