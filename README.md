@@ -13,7 +13,7 @@
     <a href="#" title="C#">
     <img src="https://img.shields.io/badge/C%23-5C2D91?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/></a>
     <a href="#" title="Js">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" alt="Js"/></a>
+    <img src="https://img.shields.io/badge/JavaScript-FFFFFF?style=flat-square&logo=javascript&logoColor=white" alt="Js"/></a>
     <a href="#" title="MySQL">
     <img src="https://img.shields.io/badge/MySQL-01529E?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/></a>
     <a href="#" title="HTML">
@@ -42,6 +42,6 @@
 <p align="left">
   <a href="mailto:mentexdev@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-teixeira-d-836b73300/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-pedro-teixeira-d-836b73300/" alt="LinkedIn"/></a>
 </p>
