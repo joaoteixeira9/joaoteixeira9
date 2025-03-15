@@ -28,8 +28,6 @@
   <p align="left">
     <a href="#" title=".Net">
     <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white" alt=".NET"/></a>
-    <a href="#" title="Node">
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/></a>
     <a href="#" title="Bootstrap">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/></a>
   </p>
